@@ -296,53 +296,7 @@ export const portfolioProjects: PortfolioProject[] = [
     category: "personal",
     featured: true,
   },
-  {
-    slug: "apkaos",
-    title: "ApkaOS",
-    company: "Personal Product",
-    period: "2025 – Present",
-    url: "https://apkaos.com",
-    summary:
-      "Cloud-based School Operating System unifying student information, attendance, fees, admissions, exams, results, and parent portal on one privacy-first platform.",
-    description:
-      "ApkaOS is a modern School Operating System for schools, colleges, and coaching institutes. It replaces disconnected tools with fifteen connected modules sharing one institutional record — so staff stop being the integration layer and start running school operations from a single secure cloud platform.",
-    highlights: [
-      {
-        label: "Core Modules",
-        items: [
-          "Student & teacher management with searchable SIS records",
-          "Daily and period-wise attendance with live absence trends",
-          "Fee structures, instalments, receipts, and automated parent reminders",
-          "Admission pipeline from enquiry to enrolment",
-          "Examinations, seating, marks workflow, and same-day report cards",
-          "Parent portal for attendance, fees, homework, results, and circulars",
-        ],
-      },
-      {
-        label: "Platform",
-        items: [
-          "Role-based access for principals, admins, teachers, accountants, and parents",
-          "Analytics dashboard for attendance, fees, academics, and admissions",
-          "Notification center across app, email, and SMS with delivery tracking",
-          "Encrypted cloud storage with document versioning",
-          "AI-ready structured data foundation",
-        ],
-      },
-      {
-        label: "Privacy & Security",
-        items: [
-          "Privacy-first architecture with tenant isolation",
-          "AES-256 encryption at rest and TLS in transit",
-          "Multi-factor authentication and session/device visibility",
-          "Audit logs and school-owned data with full export",
-          "99.9% cloud uptime target on redundant infrastructure",
-        ],
-      },
-    ],
-    tags: ["Next.js", "School OS", "Cloud", "PostgreSQL", "Auth", "SaaS"],
-    category: "personal",
-    featured: true,
-  },
+
   {
     slug: "kamalpur",
     title: "Kamalpur Patel Parivar",
